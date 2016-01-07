@@ -1,0 +1,14 @@
+---
+layout: post
+permalink: iqra
+title: Iqra
+categories:
+- Inspirations
+---
+
+Reading is good. Leaders tend to be readers.
+
+
+<blockquote>According to The New York Times, Steve Jobs had an "inexhaustible interest" in William Blake; **Nike founder Phil Knight so reveres his library that in it you have to take off your shoes and bow;** and Harman Industries founder Sidney Harman called poets "the original systems thinkers," quoting freely from Shakespeare and Tennyson. In Passion &amp; Purpose, David Gergen notes that Carlyle Group founder David Rubenstein reads dozens of books each week.
+</blockquote>
+via [For Those Who Want to Lead, Read - John Coleman - Harvard Business Review](http://s.hbr.org/cs/2012/08/for_those_who_want_to_lead_rea.html).

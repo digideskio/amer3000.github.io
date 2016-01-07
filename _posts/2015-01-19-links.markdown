@@ -1,0 +1,47 @@
+---
+layout: post
+permalinks: links
+title: Links
+categories:
+- Links
+---
+
+Here is a collection of various sites, blogs, forums that I read or follow.
+
+
+# Technology:
+	
+  * [https://news.ycombinator.com/news](https://news.ycombinator.com/news) - Startups forum
+  * [http://highscalability.com/](http://highscalability.com/) - Infrastructure
+  * [http://www.smashingmagazine.com/](http://www.smashingmagazine.com/) - Web design
+  * [http://alanstorm.com/](http://alanstorm.com/) -  Magento
+
+# Startup &amp; Business:
+	
+  * [http://brandontreb.com/](http://brandontreb.com/)
+  * [http://www.singlefounder.com/](http://www.singlefounder.com/)
+  * [http://www.paulgraham.com/articles.html](http://www.paulgraham.com/articles.html)
+  * [http://blogmaverick.com/](http://blogmaverick.com/)
+
+# Blogs:
+	
+  * [http://tynan.com/](http://tynan.com/) - Adventures
+  * [http://www.nerdfitness.com/blog/](http://www.nerdfitness.com/blog/) - Fitness
+  * [http://markmanson.net/archive](http://markmanson.net/archive) - Motivational
+
+# Photography:
+	
+  * [http://blog.flickr.net/en](http://blog.flickr.net/en)
+  * [http://petapixel.com/](http://petapixel.com/)
+  * [http://www.dpreview.com/](http://www.dpreview.com/)
+  * [http://www.bostonglobe.com/news/bigpicture](http://www.bostonglobe.com/news/bigpicture)
+  * [http://www.diyphotography.net/](http://www.diyphotography.net/)
+  * [https://500px.com/popular](https://500px.com/popular)
+  * [http://photography.nationalgeographic.com/photography/photo-of-the-day/](http://photography.nationalgeographic.com/photography/photo-of-the-day/)	
+  * [http://www.vonwong.com/blog/](http://www.vonwong.com/blog/)
+
+
+
+
+
+

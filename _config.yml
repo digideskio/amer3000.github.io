@@ -1,0 +1,28 @@
+# Dependencies
+markdown:         redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+highlighter:      pygments
+
+# Permalinks
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:            ak
+tagline:          'A blog'
+description:      'Random thoughts about programming, philosophy, history, video games, photography, &amp; life.'
+url:              http://amerkhalid.com
+baseurl:          /
+
+author:
+  name:           'Amer'
+  url:            
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           
