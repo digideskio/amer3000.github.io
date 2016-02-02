@@ -5,7 +5,7 @@ title: Books
 
 I love reading, one of my favorite pass time. 
 
-# Bookd I Read in 2016
+# Books I Read in 2016
 
 1. Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future 
 
