@@ -7,8 +7,10 @@
 {% include sidebar.html %}
 
 <div class="container">
-{{ content }}
+	{{ content }}
+
+	<p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
 </div>
-<p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+
 </body>
 </html>
