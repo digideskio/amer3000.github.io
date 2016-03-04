@@ -1,17 +1,14 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<html lang="en-us">
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
-  <div class="container">
+<body>
+{% include sidebar.html %}
 
-    	{% include sidebar.html %}
-
-    	<div class="content">
-      		{{ content }}
-    	</div>
-
-	</div>
-  </body>
+<div class="content">
+{{ content }}
+</div>
+<p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+</body>
 </html>
