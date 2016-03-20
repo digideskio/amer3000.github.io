@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inspiring Pakistani: Sharmeen Obaid-Chinoy
+title: Sharmeen Obaid-Chinoy
 categories:
 - Inspiring Pakistani
 ---
