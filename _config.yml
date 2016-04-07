@@ -8,10 +8,10 @@ highlighter:      rouge
 permalink:           pretty
 
 # Setup
-title:            ak
+title:            chaosplay
 tagline:          'A blog'
 description:      'Random thoughts about programming, philosophy, history, video games, photography, &amp; life.'
-url:              http://amerkhalid.com
+url:              http://chaosplay.com
 baseurl:          /
 
 author:
